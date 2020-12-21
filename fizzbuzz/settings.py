@@ -25,7 +25,7 @@ SECRET_KEY = 'uf(=h5(6o+ibys-nx8jmlhmz^2h0!0ffdj97%lppz!mn%lfa3l'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['0.0.0.0']
 
 
 # Application definition
